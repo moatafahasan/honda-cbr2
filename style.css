@@ -1,0 +1,41 @@
+.header-bg {
+    background-color: rgb(38, 70, 83);
+
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.button-fill {
+    background-color: rgb(231, 111, 81);
+}
+
+.button-outline {
+    color: rgb(231, 111, 81);
+    border: 1px solid rgb(231, 111, 81);
+}
+
+
+.greyscale {
+    filter: grayscale(100%);
+}
+
+.orangelike-color {
+    color: rgb(231, 111, 81);
+}
+
+.header-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.scaleing {
+    transition: .3s;
+}
+
+.scaleing:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+
+
+}
